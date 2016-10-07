@@ -1,0 +1,18 @@
+textures/shared_tech/*
+
+    Author
+        Scott 'Cr4zy' Coxhead <me@cr4zyb4st4rd.co.uk> (http://www.cr4zyb4st4rd.co.uk)
+
+    License
+        Creative Commons Attribution-NonCommercial-NoDerivs License
+	(No version or localization provided.)
+
+    Notes
+        - *_p.* files are preview images generated from the diffuse maps.
+
+    Changes
+        - The file formats have been converted.
+
+    Source
+        http://www.cr4zyb4st4rd.co.uk/textures.html
+
