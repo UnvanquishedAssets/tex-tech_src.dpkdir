@@ -1,0 +1,24 @@
+[_init_]
+extend = "@game"
+
+[dir]
+source = "textures/shared_tech_src"
+
+[shader]
+filename = "scripts/shared_tech.shader"
+namespace = "textures/shared_tech"
+header = """
+To the extent possible under law, Unvanquished Development has waived all
+copyright and related or neighboring rights to this shader file.
+
+For modifications, it is recommended that you copy this file into your map's
+file space and, inside the shader name (but not in the pathes to the texture
+maps!), replace "shared" with your map's short name. If you do so, please
+remove this header.
+
+This file is a part of the Unvanquished installation and can change with
+every release.
+
+This file has been generated automatically with Sloth, which can be found at
+https://github.com/Unvanquished/Sloth
+"""

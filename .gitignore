@@ -1,1 +1,4 @@
 build/
+.paktrace/
+scripts/shared_tech.shader
+textures/shared_tech_src/*_p.jpg
