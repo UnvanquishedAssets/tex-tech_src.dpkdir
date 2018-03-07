@@ -1,5 +1,5 @@
 [_init_]
-extend = "@game"
+extend = "${game}"
 
 [dir]
 source = "textures/shared_tech_src"
