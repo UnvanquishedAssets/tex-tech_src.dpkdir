@@ -1,18 +1,17 @@
 textures/shared_tech/*
 
-    Author
-        Scott 'Cr4zy' Coxhead <me@cr4zyb4st4rd.co.uk> (http://www.cr4zyb4st4rd.co.uk)
+	Author
+		Scott 'Cr4zy' Coxhead <me@cr4zyb4st4rd.co.uk> (http://www.cr4zyb4st4rd.co.uk)
 
-    License
-        Creative Commons Attribution-Share Alike 3.0
+	License
+		Creative Commons Attribution-Share Alike 3.0
 		https://creativecommons.org/licenses/by-sa/3.0
 
-    Notes
-        - *_p.* files are preview images generated from the diffuse maps.
+	Notes
+		- *_p.* files are preview images generated from the diffuse maps.
 
-    Changes
-        - The file formats have been converted.
+	Changes
+		- The file formats have been converted.
 
-    Source
-        http://www.cr4zyb4st4rd.co.uk/textures.html
-
+	Source
+		http://www.cr4zyb4st4rd.co.uk/textures.html
