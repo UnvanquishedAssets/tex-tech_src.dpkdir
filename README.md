@@ -1,7 +1,7 @@
 Tech texture set for Unvanquished
 =================================
 
-![Tech preview shot](.pakinfo/extra/tex-tech-preview.jpg)
+![Tech preview shot](.urcheon/extra/tex-tech-preview.jpg)
 
 
 About
